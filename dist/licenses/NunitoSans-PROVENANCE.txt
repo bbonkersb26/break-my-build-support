@@ -1,0 +1,7 @@
+Nunito Sans — SIL Open Font License 1.1; see NunitoSans-OFL.txt.
+Source: https://github.com/google/fonts/tree/main/ofl/nunitosans
+Downloaded 2026-11-10 from Google Fonts' public font repository.
+Source variable file: NunitoSans[YTLC,opsz,wdth,wght].ttf.
+Derived static weights: Regular 400, Semibold 600, Bold 700.
+All other variation axes fixed at their source default values using fontTools 4.63.0.
+These local static instances are bundled for consistent Unity font import and dynamic TMP atlases.
